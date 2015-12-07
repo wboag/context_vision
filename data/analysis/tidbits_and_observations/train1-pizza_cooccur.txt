@@ -1,0 +1,32 @@
+ILSVRC2012_val_00016614
+        <ObjAnn person       x=[ 17 357] y = [ 91 386]>
+        <ObjAnn pizza        x=[170 303] y = [ 65 211]>
+
+
+ILSVRC2012_val_00049697
+        <ObjAnn person       x=[ 84 415] y = [  1 183]>
+        <ObjAnn microwave    x=[  0  94] y = [200 287]>
+        <ObjAnn pizza        x=[241 452] y = [347 444]>
+        <ObjAnn table        x=[  0 499] y = [293 481]>
+
+
+ILSVRC2012_val_00026333
+        <ObjAnn table        x=[ 16 372] y = [126 498]>
+        <ObjAnn pizza        x=[  7 291] y = [176 456]>
+
+
+ILSVRC2012_val_00000727
+        <ObjAnn person       x=[127 212] y = [  3 101]>
+        <ObjAnn bowl         x=[  2 125] y = [125 248]>
+        <ObjAnn apple        x=[159 209] y = [ 19  93]>
+        <ObjAnn pizza        x=[130 252] y = [141 239]>
+
+
+ILSVRC2012_val_00032426
+        <ObjAnn pizza        x=[  3 499] y = [175 367]>
+        <ObjAnn table        x=[153 214] y = [ 38  70]>
+        <ObjAnn bowl         x=[196 312] y = [216 275]>
+        <ObjAnn person       x=[195 292] y = [ 29 157]>
+        <ObjAnn cup or mug   x=[117 206] y = [118 189]>
+        <ObjAnn chair        x=[119 276] y = [ 84 144]>
+
